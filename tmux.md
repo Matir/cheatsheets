@@ -12,7 +12,7 @@ attach:
 
     tmux a  #  (or at, or attach)
 
-attach to named:
+attach to named session:
 
     tmux a -t myname
 
